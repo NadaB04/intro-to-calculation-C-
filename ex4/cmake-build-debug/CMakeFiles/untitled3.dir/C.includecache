@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nadav/OneDrive/university/1st math degree/untitled3/ex_4.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
